@@ -18,7 +18,7 @@ Our module will allows you:
 
 - easy setup of selling online using G2A Pay,
 - make refunds directly from your platform using API,
-- automatically data synchronization beetwen your paltform and our system (notifications, transactions data),
+- automatically data synchronization beetwen your platform and our system (notifications, transactions data),
 
 # Technical requirements
 
