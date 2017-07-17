@@ -12,7 +12,7 @@ merchant support center – just go to https://pay.g2a.com/contact.
 - Features
 - Technical requirements
 
-# Features
+## Features
 
 Our module will allows you:
 
@@ -20,7 +20,7 @@ Our module will allows you:
 - make refunds directly from your platform using API,
 - automatically data synchronization beetwen your platform and our system (notifications, transactions data),
 
-# Technical requirements
+## Technical requirements
 
 Module requires:
 
