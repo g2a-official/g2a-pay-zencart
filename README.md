@@ -2,7 +2,7 @@
 
 ZenCart - A free, user-friendly, open-source shopping cart software. It has been developed by a group of shop owners and designers that think outside the box. Following unconventional rules of eCommerce web design, ZenCart puts the needs of merchants and customers first by focusing and delivering on their specific requirements.
 
-## Note: plugin support versions xxx – xxx of script.
+## Note: plugin support version 1.5.5a of script.
 
 If you have any questions we are ready to help you using our official merchant support center – just go to https://pay.g2a.com/contact.
 
