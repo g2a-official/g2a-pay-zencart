@@ -1,4 +1,7 @@
-# G2A Pay module for ZenCart
+# ⚠ This repository is now DEPRECATED and will be deleted after 1st of August 2021. We recommend to use [Zen](https://www.zen.com/) in new projects.
+
+
+## G2A Pay module for ZenCart
 
 ZenCart - A free, user-friendly, open-source shopping cart software. It has been developed by a group of shop owners and designers that think outside the box. Following unconventional rules of eCommerce web design, ZenCart puts the needs of merchants and customers first by focusing and delivering on their specific requirements.
 
